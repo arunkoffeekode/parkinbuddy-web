@@ -1,0 +1,124 @@
+@charset "utf-8"; /* CSS Document */
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 992px) and (min-width: 1200px) {  
+   
+
+}
+@media only screen and (min-width: 993px) {
+
+}
+@media only screen and (min-width: 992px) {
+
+
+}
+
+/* width: 991px; */
+
+@media screen and (max-width: 61.938em) {
+	.navbar-default.navbar-reduce .nav-item {margin-bottom: 10px;}
+    .navbar-default {height: auto;}
+    /* .navbar-default{padding: 10px;} */
+    .navbar-default{padding: 0.5rem 1rem;}
+    .why-us .wt .why-text .fuel{font-size: 22px;line-height: 32px;}
+    .why-us .start-why h1{font-size: 33px;line-height: 44px;}
+    .work .work-title .work-text{font-size: 33px;line-height: 44px;}
+   
+    .contact .contact-details .contact-text{font-size: 33px;line-height: 44px;padding-bottom: 20px;}
+    .contact .contact-details h2{font-size: 20px;line-height: 30px;}
+    .home-top .top-header-title .top-tit{font-size: 25px;line-height: 35px;margin-bottom: 5px;}
+    .home-top .top-header-title h1{font-size: 25px;line-height: 35px;}
+    .main-title h1{font-size: 33px;line-height: 44px;}
+    .home-top .top-header-title p{font-size: 16px;line-height: 26px;}
+    .question .question-title h1{font-size: 33px;line-height: 44px;}
+    .comming-soon-title{font-size: 33px;line-height: 44px;margin-bottom: 60px;}
+    .capabilities h1{font-size: 33px;line-height: 44px;}
+    .mob-none{display: none;}
+    .copy-right .footer-links-1{float: left;}
+    .copy-right .footer-title{margin-bottom: 0px;}
+    .col-xs-3 {width: 100%!important;}
+    .our-credibility ul li{ width:100%; }
+}
+@media screen and (max-width: 61.938em) {}
+/*============	Media 768Px Start ============ */
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+  
+
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+
+@media (min-width: 320px) and (max-width: 768px) {
+
+}
+
+@media only screen and (min-width:768px) {
+
+   
+}
+
+/*---------- MEDIA 480px ----------*/
+@media  (max-width: 768px) {
+  
+
+}
+@media  (max-width: 480px) {
+    
+    .contact .contact-details{padding: 30px 0px 0px 0px}
+    .contact .contact-details .contact-text{text-align: center;border-bottom: 1px solid #ffffff;}
+    .contact .contact-details h2{text-align: center;}
+   
+    .work .start-work h1{font-size: 33px;line-height: 44px;margin-top: 0px;text-align: center;}
+    .work .start-work p{font-size: 16px;line-height: 26px;text-align: center;}
+    .copy-right .footer-links-1 ul li{width: 100%;}
+
+}
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {padding-top: 1rem;}
+ 
+
+}
+
+/*============ Media 300Px Star ============ */
+
+@media (max-width: 480px) {
+
+
+
+}
+
+/*============ Media 320Px Start ============ */
+
+@media (max-width: 320px) {
+	
+}
+
+@media only screen and (max-width: 991.98px) {
+	
+	
+	
+}
+
+@media only screen and (max-width: 767.98px) {
+	
+
+}
+@media (min-width: 576px){
+
+	
+}
+
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (min-width: 768px) {
+   
+	.navbar-default.navbar-trans .nav-item,
+	.navbar-default.navbar-reduce .nav-item { margin-left: 30px;}
+  
+	.navbar-default .dropdown .dropdown-menu { border-top: 4px solid#009933; border-left: 0; display: block; position: absolute; box-shadow: 0 2px rgba(17, 16, 15, 0.1), 0 2px 10px rgba(20, 19, 18, 0.1);}
+	
+	}
+    @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation : portrait) {
+       
+    }
